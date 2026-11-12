@@ -1,0 +1,20 @@
+{
+  "name": "Goalkeeper OS — Elouan",
+  "short_name": "Goalkeeper",
+  "description": "Coach sportif adaptatif pour gardien de but",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#f5f7fb",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
